@@ -48,7 +48,7 @@ Write the detailed procedure here
 2.compile and run rhe program .
 3.generate the RTL schematic and save the logic
  diagram.
-4.create nodes for inputs and outputs to generate the timing diagram .
+4.create nodes for inputs and outputs to generate the timing diagram . 
 5.for different input combinations generate the timing diagram.
 
 **Program:**
